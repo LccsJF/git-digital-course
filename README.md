@@ -24,10 +24,10 @@
 
     git branch (nome da branch) - cria uma nova "branch=ramo" de trabalho. A branch principal é a master/main;
 
-    git branch - visualizo todas as branchs do meu repositório. A que está de cor de diferente, é minha branch atual;
+    git branch - visualizo todas as branchs do meu repositório. A branch de cor diferente, é a branch atual;
 
     git log --oneline --decorate - mostra todas as "branchs" e a branch utilizada no momento;
 
     git checkout (nome da branch) - sai da branch atual e vai para a branch solicitada;
 
-    git merge (nome da branch) - une, adiciona todas as branchs com seus arquivos a branch principal master/main;
+    git merge (nome da branch) - junta todas as branchs com seus arquivos a branch principal master/main;
